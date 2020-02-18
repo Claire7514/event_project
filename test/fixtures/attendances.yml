@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sstripe_customer_id: MyString
+
+two:
+  sstripe_customer_id: MyString
